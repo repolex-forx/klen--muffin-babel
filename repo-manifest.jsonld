@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/klen/muffin-babel/commit/140c6b73b9ec2d1ba09aa6548f31cfb9cb9e5ca0",
       "git:hexsha": "140c6b73b9ec2d1ba09aa6548f31cfb9cb9e5ca0",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "1.7.0"
     },
     {
